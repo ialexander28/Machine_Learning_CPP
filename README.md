@@ -1,2 +1,2 @@
 # Machine_Learning_CPP
-ML Algo in C++
+A simple ML algo for a linear regression model in C++
